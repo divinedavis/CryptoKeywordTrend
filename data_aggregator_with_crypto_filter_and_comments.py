@@ -46,7 +46,7 @@ CRYPTO_KEYWORDS = {
     "ethereum": ["ethereum", "eth"],
     "solana": ["solana", "sol"],
     "dogecoin": ["dogecoin", "doge"],
-    "xrp":["xrp"]
+    "xrp": ["xrp","xrp"]
     # Add more as needed...
 }
 
